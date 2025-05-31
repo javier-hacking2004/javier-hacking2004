@@ -1,7 +1,7 @@
 ### 🚀 **BIENVENIDO A MI MUNDO DIGITAL!** 🌟🔥💻
 
 <p align="center">
-  <img src="https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&w=1200" alt="Banner Digital" width="100%">
+  <img src="[https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=compress](https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif)&w=1200" alt="Banner Profesional" width="100%">
 </p>
 
 <h1 align="center">
