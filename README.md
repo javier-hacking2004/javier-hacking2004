@@ -1,7 +1,7 @@
 ### 🚀 **BIENVENIDO A MI MUNDO DIGITAL!** 🌟🔥💻
 
 <p align="center">
-  <img src="imagenes/perfil GitHub.png" alt="Banner Profesional" width="100%">
+  <img src="/imagenes/perfil GitHub.png" alt="Banner Profesional" width="100%">
 </p>
 
 <h1 align="center">
