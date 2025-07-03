@@ -59,7 +59,7 @@
 ![Apache](https://img.shields.io/badge/-Apache-black?logo=apache&style=social)&nbsp;&nbsp;
 
 
-## 🚀 &nbsp;Lenguajes y Frameworks favoritos
+## 🚀 &nbsp;Lenguajes y Frameworks que he utilizado
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
