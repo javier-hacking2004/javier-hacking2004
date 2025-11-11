@@ -49,7 +49,11 @@
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=spring&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)&nbsp;&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
@@ -59,14 +63,21 @@
 ![Apache](https://img.shields.io/badge/-Apache-black?logo=apache&style=social)&nbsp;&nbsp;
 
 
-## 🚀 &nbsp;Lenguajes y Frameworks que he utilizado
+## 🚀 &nbsp;Lenguajes y Frameworks que he estoy utilizado en el grado superior
 
 <div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="50" height="50"/>
 </div>
